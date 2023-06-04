@@ -642,6 +642,7 @@ body.dark-theme {
 }
 
 .qualification__info {
+  text-align: center;
   display: grid;
   row-gap: 2rem;
 }
